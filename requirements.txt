@@ -1,0 +1,11 @@
+langchain
+langchain-community
+langchain-openai
+langchain-text-splitters
+chromadb
+openai
+fastapi
+uvicorn
+watchdog
+python-dotenv
+unstructured

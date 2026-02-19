@@ -1,0 +1,24 @@
+# Environment & secrets
+.env
+
+# Personal notes
+README_PERSONAL.rtf
+
+# Python
+__pycache__/
+*.pyc
+
+# Vector store (binary data, too large for git)
+vector_store/
+
+# macOS
+.DS_Store
+
+# Logs
+nohup.out
+
+# Node
+frontend/node_modules/
+
+# Tauri build artifacts
+frontend/src-tauri/target/
